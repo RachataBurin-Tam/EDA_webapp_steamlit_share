@@ -57,4 +57,4 @@ def app():
         else:
             pass
     except:
-        st.write("Something error TT")
+        pass
